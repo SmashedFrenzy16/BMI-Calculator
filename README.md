@@ -1,5 +1,10 @@
 # BMI Calculator
+
 This is a simple BMI calculator made in Python.
+
+## Formula
+
+> Formula: weight (lb) / [height (in)]^2 x 703
 
 ## Implementation
 
